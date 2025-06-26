@@ -5,6 +5,12 @@ public class Exercicio_1 {
     public static void main(String[] args) throws Exception {
         Scanner leia = new Scanner(System.in);
 
+        // Sistema de cálculo de idade:
+        System.out.println("-----------------------------------------------------\n");
+        System.out.println("Bem-vindo ao sistema de cálculo de idade!\n");
+        System.out.println("-----------------------------------------------------\n");
+
+
         // Nome do usuario  
         System.out.println("Por favor, digite seu nome:");
         String nome = leia.nextLine();
