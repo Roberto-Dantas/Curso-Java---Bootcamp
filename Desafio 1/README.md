@@ -1,5 +1,7 @@
-# DIO - Trilha Java Básico
-www.dio.me
+## [Desafio 1 - Sintaxe](src/ContaTerminal.java)
+
+
+## DIO - Trilha Java Básico - Desafio 1:
 
 #### Autores
 - [Gleyson Sampaio](https://github.com/glysns)
@@ -34,6 +36,3 @@ Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o
 *"Olá [Nome Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agencia], conta [Numero] e seu saldo [Saldo] já está disponível para saque".*
 
 Os campos em [ ] devem ser alterados pelas informações que forem inseridas pelos usuários.
-
-
-### [Desafio 1 - Sintaxe](src/ContaTerminal.java)
