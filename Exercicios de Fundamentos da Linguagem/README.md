@@ -1,13 +1,13 @@
-## Exercicios
+## Exercícios:
 
-## 1. Escreva um código que receba o nome e o ano de nascimento de alguém e imprima na tela a seguinte mensagem: "Olá 'Fulano' você tem 'X' anos"
+### [Exercício 1](src/Exercicio_1.java)
+Escreva um código que receba o nome e o ano de nascimento de alguém e imprima: "Olá 'Fulano' você tem 'X' anos"
 
-## 2. Escreva um código que receba o tamanho do lado de um quadrado, calcule sua área e exiba na tela - formula: área=lado X lado -
+### [Exercício 2](src/Exercicio_2.java)
+Escreva um código que receba o tamanho do lado de um quadrado, calcule sua área e exiba na tela.
 
-## 3. Escreva um código que receba a base e a alturade um retângulo, calcule sua área e exiba na tela - fórmula: área=base X altura - 
+### [Exercício 3](src/Exercicio_3.java)
+Escreva um código que receba a base e a altura de um retângulo, calcule sua área e exiba na tela.
 
-## 4. Escreva um código que receba o nome e a idade de 2 pessoas e imprima a diferença de idade entre elas
-
-
-## 4. Escreva um código que receba o nome e a idade de 2 pessoas e imprima a diferença de idade entre elas
-
+### [Exercício 4](src/Exercicio_4.java)
+Escreva um código que receba o nome e a idade de 2 pessoas e imprima a diferença de idade entre elas.
