@@ -1,12 +1,8 @@
-## [Desafio 1 - Sintaxe](src/ContaTerminal.java)
+## DIO - Trilha Java Básico:
 
+## Projeto: [Desafio 1 - Sintaxe](src/ContaTerminal.java)
 
-## DIO - Trilha Java Básico - Desafio 1:
-
-#### Autores
-- [Gleyson Sampaio](https://github.com/glysns)
-
-## Sintaxe - Desafio
+### Sintaxe - Desafio
 
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
