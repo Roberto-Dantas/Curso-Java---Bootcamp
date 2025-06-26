@@ -7,3 +7,7 @@
 ## 3. Escreva um código que receba a base e a alturade um retângulo, calcule sua área e exiba na tela - fórmula: área=base X altura - 
 
 ## 4. Escreva um código que receba o nome e a idade de 2 pessoas e imprima a diferença de idade entre elas
+
+
+## 4. Escreva um código que receba o nome e a idade de 2 pessoas e imprima a diferença de idade entre elas
+
