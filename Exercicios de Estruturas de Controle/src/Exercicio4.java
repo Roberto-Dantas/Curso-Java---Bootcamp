@@ -19,7 +19,7 @@ public class Exercicio4 {
         } while (numero2 <= numero1 || numero1 % numero2 == 0);
 
         System.out.printf("\nO número %.2f não é divisível por %.2f.%n", numero1, numero2);
-        System.out.printf("A divisão de %.2f por %.2f é igual a %.2f.%n", numero1, numero2, numero1 / numero2);
+        System.out.printf("A divisão de %.2f por %.2f é igual a %.2f arredondando.%n", numero1, numero2, numero1 / numero2);
         System.out.printf("O resto da divisão de %.2f por %.2f é igual a %.2f.%n", numero1, numero2, 20 % numero2);
         scanner.close();
     }
